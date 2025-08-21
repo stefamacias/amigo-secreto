@@ -21,8 +21,8 @@ amigo-secreto/
 │── assets/ # Imágenes y recursos
 
 🛠️ Tecnologías utilizadas
-- HTML5
-- JavaScript (Vanilla)
+- HTML
+- JavaScript
 
 ---
 
